@@ -19,6 +19,15 @@ install/
 ## 📖 Usage Guide
 👉 See [docs/USAGE.md](docs/USAGE.md) for detailed instructions.
 
+```shell
+cd install
+./install_linux.sh
+```
+
+## test
+
+test on linux, support latest windows wsl2(support systemctl tools)
+
 ## ☁️ CDN Installation (Optional)
 ```bash
 curl -fsSL https://cdn.example.com/AutoVNT/install_linux.sh | sudo bash
