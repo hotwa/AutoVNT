@@ -1,0 +1,7 @@
+*.log
+*.tar.gz
+*.swp
+*.bak
+__pycache__/
+install/helpers/__pycache__/
+config/*.yaml
